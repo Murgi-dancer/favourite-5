@@ -1,0 +1,75 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:aqua;
+}
+
+#hello2{
+   font-family:cursive;
+    float:right;
+    cursor: pointer;
+    top:10px;
+    right:30px;
+    background-color: aqua
+}
+.body{
+  background-color:aqua
+   font-size:35px;
+    font-family: fantasy;
+    
+    
+}
+.class{
+    background-color:aqua;
+    height:9px;
+    border-width: medium;}
+
+.menu{
+float:right;
+top:10px;
+right:30px;
+color:chartreuse;
+position:absolute;
+z-index:18;    
+background-color:deeppink   
+    
+}
+
+
+#Hello{
+background-color:yellow
+
+    
+    
+}
+#my image{
+background-size: 10px;
+}
+    
+    
+    
+    
+#My inspiration{
+ background-color: chartreuse ;  
+ font-family:cursive;
+    float:right;
+    cursor: pointer;
+    top:10px;
+    right:30px;   
+    
+    
+    
+    
+} 
+#player{
+background-color:darkviolet;   
+height:9px;
+    border-width: medium;    
+    font-family:cursive;
+    float:right;
+    cursor: pointer;
+    top:10px;
+    right:30px;
+}
